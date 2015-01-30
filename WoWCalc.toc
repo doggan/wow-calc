@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: WoWCalc
+## Version: 1.0
+## Notes: An in-game calculator.
+## Author: Shyam 'Doggan' Guthikonda
+## Email: shyamguth@gmail.com
+## URL: http://shy.am
+
+WoWCalc.lua
+WoWCalc.xml
